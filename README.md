@@ -1,4 +1,4 @@
-## JARVIS_GUI v1.1 - AI Virtual Assistant
+## JARVIS_1.1 - AI Virtual Assistant
 A smart and powerful voice assistant made with Python — works like Alexa and Google Assistant.
 
 ### What's New
